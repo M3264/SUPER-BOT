@@ -7,7 +7,7 @@ import fetch from 'node-fetch';
 import axios from 'axios';
 import moment from 'moment-timezone';
 
-global.botnumber = "254111728536"
+global.botnumber = "2348160247341"
 global.confirmcode = ""
 
 global.owner = [
@@ -15,11 +15,11 @@ global.owner = [
   ['254101003655', '🐉Confronter', true],
   ['254786827982', '💫𝐒𝐔𝐏𝐄𝐑 𝐁𝐎𝐓 💫', true],
   ['254796283064', '❗️Confronter', true],
-  ['254743776612', '💫 𝐒𝐔𝐏𝐄𝐑 𝐁𝐎𝐓💫', true],
+  ['2348160247341', '💫 𝐒𝐔𝐏𝐄𝐑 𝐁𝐎𝐓💫', true],
 ];
 
-global.suittag = ['254794597254'];
-global.prems = ['254794597254'];
+global.suittag = ['2348160247341'];
+global.prems = ['2348160247341'];
 
 global.packname = '𒁂⃝ᰲĴΔ¥Đ€Ň ƤΔƤƗƗ™ ͟͞';
 global.author = '★𝐒𝐔𝐏𝐄𝐑 𝐁𝐎𝐓★';
@@ -34,7 +34,7 @@ global.imagen4 = fs.readFileSync('./Menu.png');
 global.imagen5 = fs.readFileSync('./src/+18.jpg');
 global.imagen6 = fs.readFileSync('./Menu3.png');
 
-global.mods = [];
+global.mods = ['2347013159244'];
 
 //* *******Tiempo***************
 global.d = new Date(new Date + 3600000);
